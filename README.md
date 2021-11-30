@@ -1,3 +1,5 @@
+[![Python versions](https://img.shields.io/pypi/pyversions/diffprivlib.svg)](https://pypi.org/project/diffprivlib/)
+
 # Training Basic Neural Network from scratch
 Notebook for training a basic neural network without the use of any deep learning libraries.
 
